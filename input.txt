@@ -1,1 +1,1 @@
-AO2D-test-input.root
+AO2D-full-DG-golden.root
